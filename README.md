@@ -9,7 +9,7 @@ request);
 I finally got sick and tired of looking at the model manifests for what blobs to copy from a PC's ollama setup
 to another. Being a bit lazy, though, I asked Claude for such an utility (let me know if you want me to share the
 details); TL;DR: two iterations were enough for it to come up with the working version I'm sharing.
-Enjoy and, if you decide on improving it, let us know. These were the most productive 20'ish minutes with claude since
+Enjoy and, if you decide on improving it, let me know as well. These were the most productive 20'ish minutes with claude since
 I first started "seriously" using it for idea/proof of concept about year ago (and yes, I've had many arguments with many
 of its previous iterations :> )
 
