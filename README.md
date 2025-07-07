@@ -33,6 +33,9 @@ Enjoy!
 - 📋 Copy/delete operations
 - 🌐 Network share support
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/7db2110b-27a3-4ee2-b28a-0a1f69ac5203)
+
 ## Installation
 
 ```bash
