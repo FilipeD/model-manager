@@ -18,6 +18,6 @@ A dual-pane file manager for Ollama models. Stop pulling from repos - start mana
 ## Installation
 
 ```bash
-git clone https://github.com/free4ever2005/model-manager.git
+git clone https://github.com/FilipeD/model-manager.git
 cd model-manager
 python ollama_manager.py
