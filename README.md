@@ -1,8 +1,10 @@
 # model-manager
 Simple python+tkinter app to manage ollama models
+
+# TL;DR
 A dual-pane file manager for Ollama models. Stop pulling from repos - start managing your local collection!
 
-# due credits
+# Due credits
 Thanks to Anthropic for making Claude freely available (sonnet 4 at the the date I created this repo as the nearly perfect result of my
 request);
 
