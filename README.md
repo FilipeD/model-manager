@@ -6,7 +6,7 @@ A dual-pane file manager for Ollama models. Stop pulling from repos - start mana
 
 # Due credits
 Thanks to Anthropic for making Claude freely available (sonnet 4 at the date of creation of this repo based on
-the "good enough" outcome of my conversation with Claude - details at https://medium.com/@teclas2k/when-claude-just-works-fed7add62a75);
+the "good enough" outcome of my conversation with Claude - details at https://medium.com/@teclas2k/when-claude-just-works-fed7add62a75 - btw, this wasn't sponsored in case you're wondering... :D );
 
 # Model Manager
 I finally got sick and tired of looking at the model manifests for what blobs to copy from a PC's ollama setup
